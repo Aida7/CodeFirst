@@ -1,0 +1,11 @@
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\obj\Debug\CodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\Админ\source\repos\Entity Framework\CodeFirst\obj\Debug\CodeFirst.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity Framework", "Entity Framework\Entity Framework.csproj", "{CC8B3170-580C-4DA9-8030-1ADB00B6FD57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst", "CodeFirst\CodeFirst.csproj", "{D9F226BD-81E4-47C5-821B-49C88BFBB594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC8B3170-580C-4DA9-8030-1ADB00B6FD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8B3170-580C-4DA9-8030-1ADB00B6FD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8B3170-580C-4DA9-8030-1ADB00B6FD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8B3170-580C-4DA9-8030-1ADB00B6FD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F226BD-81E4-47C5-821B-49C88BFBB594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F226BD-81E4-47C5-821B-49C88BFBB594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F226BD-81E4-47C5-821B-49C88BFBB594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F226BD-81E4-47C5-821B-49C88BFBB594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0124BA7E-7B8D-4BDF-8A9B-35F743176BFC}
+	EndGlobalSection
+EndGlobal

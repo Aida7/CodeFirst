@@ -1,0 +1,14 @@
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe.config
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\Entity Framework.exe
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\Entity Framework.pdb
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\CodeFirst.dll
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\EntityFramework.dll
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\CodeFirst.pdb
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\CodeFirst.dll.config
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\EntityFramework.xml
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.exe
+C:\Users\Админ\source\repos\Entity Framework\Entity Framework\obj\Debug\Entity Framework.pdb
